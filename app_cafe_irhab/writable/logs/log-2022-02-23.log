@@ -1,0 +1,458 @@
+CRITICAL - 2022-02-23 00:02:54 --> Undefined variable: menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Views\PesananList.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 10, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('PesananList', Array, true)
+#4 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): view('PesananList')
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#6 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#7 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-23 00:03:01 --> Undefined variable: menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Views\PesananList.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 10, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('PesananList', Array, true)
+#4 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): view('PesananList')
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#6 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#7 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-23 00:22:13 --> Undefined variable: menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Views\PesananList.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 10, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('PesananList', Array, true)
+#4 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): view('PesananList')
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#6 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#7 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-23 00:22:19 --> Undefined variable: menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Views\PesananList.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 10, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('PesananList', Array, true)
+#4 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): view('PesananList')
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#6 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#7 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-23 00:44:10 --> Undefined variable: menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Views\PesananList.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 10, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('PesananList', Array, true)
+#4 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): view('PesananList')
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#6 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#7 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-23 00:46:19 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 00:48:40 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-23 00:56:00 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 00:57:53 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 00:58:46 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:00:42 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:00:44 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:01:35 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:06:17 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:14:29 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:14:36 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:19:31 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:19:54 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:20:58 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:23:24 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:24:07 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:24:35 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:25:38 --> Undefined variable: menu
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 27, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:25:49 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+#0 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('PesananList', Array, true)
+#2 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(27): view('PesananList')
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#4 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-23 01:26:33 --> Undefined variable: data
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Views\PesananList.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 10, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('PesananList', Array, true)
+#4 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(27): view('PesananList')
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#6 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#7 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-23 01:26:52 --> Undefined variable: menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Views\PesananList.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 10, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('PesananList', Array, true)
+#4 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(27): view('PesananList')
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#6 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#7 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-23 01:34:16 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:34:18 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:37:23 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:39:06 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-23 01:39:19 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-23 01:40:44 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+#0 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-23 01:41:56 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:42:08 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:42:10 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:42:17 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 26, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:43:26 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:43:35 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:56:53 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 01:57:03 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:02:53 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:16:50 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:18:10 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:24:16 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:24:49 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:25:07 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:25:26 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:25:38 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:28:29 --> Undefined property: App\Controllers\PesananController::$menu
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:28:47 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:29:22 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-23 02:52:46 --> Undefined property: App\Controllers\PesananController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\PesananController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 25, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\PesananController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}

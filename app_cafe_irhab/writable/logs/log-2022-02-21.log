@@ -1,0 +1,62 @@
+CRITICAL - 2022-02-21 00:32:14 --> Undefined property: App\Controllers\MenuController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\MenuController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 13, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 00:32:59 --> Undefined property: App\Controllers\MenuController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\MenuController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 13, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 00:33:24 --> Undefined property: App\Controllers\MenuController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\MenuController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 13, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 00:54:59 --> Undefined property: App\Controllers\MenuController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\MenuController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 13, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 00:56:54 --> Undefined property: App\Controllers\MenuController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\MenuController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 13, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:04:56 --> Undefined property: App\Controllers\MenuController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\MenuController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 13, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:07:05 --> Undefined property: App\Controllers\MenuController::$menus
+#0 D:\xampp\htdocs\app_cafe_irhab\app\Controllers\MenuController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 13, Array)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#2 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:36:06 --> syntax error, unexpected '$routes' (T_VARIABLE)
+#0 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\app_cafe_irhab\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 D:\xampp\htdocs\app_cafe_irhab\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#4 {main}
